@@ -1,0 +1,45 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+h2 {
+	font-size: 14pt;
+}
+
+h3 {
+	font-size: 12pt;
+}
+
+h1 {
+	margin: 10;
+}
+
+.column {
+	padding: 20;
+}
+
+.leftcolumn {
+	padding: 20;
+	width: 340px;
+	float: left;
+	vertical-align: top;	
+}
+
+.justify {
+	clear: both;
+}
+
+#maincontent {
+	margin: 20;
+}
+
+#topmenu {
+	background-color: #ddd;
+	font-size: 9pt;
+}
+
+#footer {
+	background-color: #ddd;
+	font-size: 9pt;
+}
